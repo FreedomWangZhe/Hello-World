@@ -1,2 +1,3 @@
 # Hello-World
-Just for test my first repository
+Hi, humans.
+I like C/C++ program.
